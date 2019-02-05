@@ -1,3 +1,3 @@
 console.error('HALP!');
 console.log();
-console.warm('CHECK FIRST!');
+console.warn('CHECK FIRST!');
